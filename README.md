@@ -63,6 +63,7 @@ Apart from my Professional Life, I love clicking eye-catching Pics, especially o
 
 ###
 <p align="center">
+  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://skillicons.dev/icons?i=html,css,js,py,qt,cpp,mysql,git,figma,react,mui,androidstudio,firebase,nodejs" />
   <img src="https://skillicons.dev/icons?i=express,mongo,postgresql,tailwind,next,aws,docker,jenkins,linux,postman,flask,spring,vercel" />
 </p>
